@@ -1,3 +1,3 @@
 object demo extends App{
-println("hello1")
+println("hello2")
 }
